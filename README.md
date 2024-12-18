@@ -17,3 +17,5 @@ Treasure Island is a simple text-based adventure game built using Python. In thi
 ## Game Flowchart
 
 Below is the flowchart that represents the decision-making process in the Treasure Island game.
+
+![Screenshot 2024-12-18 100345](https://github.com/user-attachments/assets/9591b6ad-fc9a-4caa-93b4-27978160ad66)
